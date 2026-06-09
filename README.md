@@ -1,11 +1,42 @@
+Mr. Robot CTF — Complete Penetration Testing Walkthrough
+📋 Table of Contents
+CTF Information
+
+Tools Used
+
+Phase 1: Reconnaissance
+
+Phase 2: Flag 1 Discovery
+
+Phase 3: Web Enumeration
+
+Phase 4: WordPress Exploitation
+
+Phase 5: Reverse Shell
+
+Phase 6: Flag 2 Discovery
+
+Phase 7: Privilege Escalation
+
+Phase 8: Flag 3 Discovery
+
+Attack Timeline
+
+Lessons Learned
+
+Mitigation Recommendations
+
+
 CTF Information
 Category	Details
 Platform	TryHackMe / VulnHub
 Room Name	Mr. Robot
 Difficulty	Medium
 Theme	Inspired by the TV show "Mr. Robot"
-Goal	Capture 3 flags (key-1-of-3.txt, key-2-of-3.txt, key-3-of-3.txt)
-Flag Format	MD5 hashes (e.g., 073403c8a58a1f80d943455fb30724b9) # Mr.ROBOT-CTF
+Goal	Capture 3 flags
+Flag Format	MD5 hashes
+Target IP	10.10.x.x (varies per instance)
+
 
 
 PHASE 1: RECONNAISSANCE
